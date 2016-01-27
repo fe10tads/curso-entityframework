@@ -1,0 +1,228 @@
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\obj\Debug\LojaWebEF.csprojResolveAssemblyReference.cache
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\LojaWebEF.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\LojaWebEF.pdb
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\Antlr3.Runtime.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\DotNetOpenAuth.AspNet.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\DotNetOpenAuth.Core.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\DotNetOpenAuth.OAuth.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\DotNetOpenAuth.OpenId.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\EntityFramework.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\Microsoft.Web.Infrastructure.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\Newtonsoft.Json.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\Ninject.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\Ninject.Web.Common.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\Ninject.Web.Mvc.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Net.Http.Formatting.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Web.Helpers.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Web.Http.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Web.Http.WebHost.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Web.Mvc.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Web.Optimization.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Web.Razor.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Web.WebPages.Deployment.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Web.WebPages.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Web.WebPages.Razor.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\WebActivator.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\WebGrease.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\WebMatrix.Data.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\WebMatrix.WebData.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\Ninject.pdb
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\Ninject.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\Ninject.Web.Common.pdb
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\Ninject.Web.Common.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\Ninject.Web.Mvc.pdb
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\Ninject.Web.Mvc.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\EntityFramework.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\Newtonsoft.Json.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Net.Http.Formatting.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Web.Helpers.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Web.Http.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Web.Http.WebHost.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Web.Mvc.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Web.Razor.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Web.WebPages.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Web.WebPages.Deployment.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\System.Web.WebPages.Razor.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\WebMatrix.Data.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\WebMatrix.WebData.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\DotNetOpenAuth.AspNet.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\DotNetOpenAuth.Core.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\DotNetOpenAuth.OAuth.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\DotNetOpenAuth.OpenId.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\obj\Debug\LojaWebEF.dll
+c:\users\victor\documents\visual studio 2012\Projects\LojaWebEF\LojaWebEF\obj\Debug\LojaWebEF.pdb
+C:\Users\victor\Documents\Visual Studio 2012\Projects\LojaWebEF\LojaWebEF\obj\Debug\LojaWebEF.Migrations.InitialMigration.resources
+C:\Users\victor\Documents\Visual Studio 2012\Projects\LojaWebEF\LojaWebEF\obj\Debug\LojaWebEF.csproj.GenerateResource.Cache
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\LojaWebEF.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\LojaWebEF.pdb
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\Antlr3.Runtime.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\DotNetOpenAuth.Core.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\EntityFramework.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\Newtonsoft.Json.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\Ninject.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\Ninject.Web.Common.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\Ninject.Web.Mvc.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Net.Http.Formatting.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Web.Helpers.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Web.Http.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Web.Http.WebHost.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Web.Mvc.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Web.Optimization.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Web.Razor.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Web.WebPages.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Web.WebPages.Razor.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\WebActivator.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\WebGrease.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\WebMatrix.Data.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\WebMatrix.WebData.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\Ninject.pdb
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\Ninject.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\Ninject.Web.Common.pdb
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\Ninject.Web.Common.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\Ninject.Web.Mvc.pdb
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\Ninject.Web.Mvc.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\EntityFramework.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\Newtonsoft.Json.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Net.Http.Formatting.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Web.Helpers.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Web.Http.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Web.Http.WebHost.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Web.Mvc.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Web.Razor.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Web.WebPages.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\System.Web.WebPages.Razor.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\WebMatrix.Data.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\WebMatrix.WebData.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\DotNetOpenAuth.Core.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\obj\Debug\LojaWebEF.csprojResolveAssemblyReference.cache
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\obj\Debug\LojaWebEF.Migrations.InitialMigration.resources
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\obj\Debug\LojaWebEF.csproj.GenerateResource.Cache
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\obj\Debug\LojaWebEF.dll
+C:\Users\victor\Desktop\Exercicios EF\LojaWebEF\obj\Debug\LojaWebEF.pdb
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\LojaWebEF.dll
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\LojaWebEF.pdb
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\System.Net.Http.Formatting.dll
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\System.Web.Helpers.dll
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\System.Web.Http.dll
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\System.Web.Http.WebHost.dll
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\System.Web.Mvc.dll
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\System.Web.Razor.dll
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\System.Web.WebPages.dll
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\System.Web.WebPages.Razor.dll
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\WebMatrix.Data.dll
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\WebMatrix.WebData.dll
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\Ninject.pdb
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\Ninject.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\Ninject.Web.Common.pdb
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\Ninject.Web.Common.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\Ninject.Web.Mvc.pdb
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\Ninject.Web.Mvc.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\EntityFramework.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\Newtonsoft.Json.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\System.Net.Http.Formatting.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\System.Web.Helpers.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\System.Web.Http.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\System.Web.Http.WebHost.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\System.Web.Mvc.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\System.Web.Razor.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\System.Web.WebPages.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\System.Web.WebPages.Razor.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\WebMatrix.Data.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\WebMatrix.WebData.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\DotNetOpenAuth.Core.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\obj\Debug\LojaWebEF.csprojResolveAssemblyReference.cache
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\obj\Debug\LojaWebEF.Migrations.InitialMigration.resources
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\obj\Debug\LojaWebEF.csproj.GenerateResource.Cache
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\obj\Debug\LojaWebEF.dll
+C:\Users\victor\Desktop\Correções Exercícios EF\LojaWebEF\obj\Debug\LojaWebEF.pdb
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\LojaWebEF.dll.config
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\LojaWebEF.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\LojaWebEF.pdb
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Antlr3.Runtime.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\DotNetOpenAuth.Core.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\EntityFramework.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Newtonsoft.Json.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Ninject.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Ninject.Web.Common.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Ninject.Web.Mvc.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\System.Web.Helpers.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\System.Web.Mvc.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\System.Web.Optimization.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\System.Web.Razor.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\System.Web.WebPages.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\System.Web.WebPages.Razor.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\WebActivator.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\WebGrease.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\WebMatrix.Data.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\WebMatrix.WebData.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Mono.Math.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Ninject.pdb
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Ninject.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Ninject.Web.Common.pdb
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Ninject.Web.Common.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Ninject.Web.Mvc.pdb
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Ninject.Web.Mvc.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\EntityFramework.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Newtonsoft.Json.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\System.Web.Helpers.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\System.Web.Mvc.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\System.Web.Razor.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\System.Web.WebPages.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\System.Web.WebPages.Razor.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\WebMatrix.Data.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\WebMatrix.WebData.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\DotNetOpenAuth.Core.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\bin\Mono.Math.xml
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\obj\Debug\LojaWebEF.Migrations.InitialMigration.resources
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\obj\Debug\LojaWebEF.csproj.GenerateResource.Cache
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\obj\Debug\LojaWebEF.dll
+C:\Users\Feeh\Desktop\CursoEF\LojaWebEF\obj\Debug\LojaWebEF.pdb
